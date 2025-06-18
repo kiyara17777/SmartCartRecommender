@@ -33,7 +33,7 @@ SmartCartRecommender/
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/SmartCartRecommender.git
+git clone https://github.com/kiyara17777/SmartCartRecommender.git
 
 cd SmartCartRecommender
 
