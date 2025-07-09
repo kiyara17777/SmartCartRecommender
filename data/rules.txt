@@ -1,0 +1,4 @@
+Toothpaste => Toothbrush
+Shampoo => Conditioner
+Sanitary Pads => Hand Sanitizer
+Face Wash => Moisturizer
