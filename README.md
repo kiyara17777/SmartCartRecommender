@@ -70,6 +70,11 @@ Laptop -> Headphones
 Phone -> Charger
 ```
 ---
+## 📸 Demo
+
+_📷 Screenshot coming soon in the next update..._
+
+---
 ## 👩‍💻 Developer
 
 **Kiyara Chandrawat**  
